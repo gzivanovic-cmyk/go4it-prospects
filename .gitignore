@@ -1,0 +1,6 @@
+private/
+.password
+*.plain.json
+shots/
+WERKWIJZE.md
+HOE-HET-WERKT.md
